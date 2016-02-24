@@ -1,0 +1,5 @@
+{
+    "name": "default",
+    "chef_type": "environment",
+    "json_class": "Chef::Environment"
+}
